@@ -1,2 +1,2 @@
-#!/bin/bang
-touch /tmp/iamafile
+#!/bin/bash
+#touch /tmp/iamafile
