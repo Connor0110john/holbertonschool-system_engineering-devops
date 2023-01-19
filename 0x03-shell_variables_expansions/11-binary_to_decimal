@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(convert_base BINARY 2 10)
+echo $(convert_base 2 10)
