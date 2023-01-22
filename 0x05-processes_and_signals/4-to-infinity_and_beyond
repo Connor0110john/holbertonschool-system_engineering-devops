@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# display To infinity and beyond by using the while loop indefinitely whil each iteration of the loop, add a sleep 2
+while [ $i ]
+do
+echo "To infinity and beyone"
+sleep 2
+done
