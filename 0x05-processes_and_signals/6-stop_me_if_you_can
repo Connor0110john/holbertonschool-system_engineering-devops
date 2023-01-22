@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#stop the 4-to_infinity_and_beyond proccess without using the kill command
+systemctl stop 4-to_infinity_and_beyond
