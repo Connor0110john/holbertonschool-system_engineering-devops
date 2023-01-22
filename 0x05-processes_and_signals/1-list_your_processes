@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 # [romts ;ost pf current processes
-ps -la
+ps -auxf
