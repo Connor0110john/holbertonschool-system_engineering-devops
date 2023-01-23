@@ -1,4 +1,4 @@
-#!/user/bin/env bash
+#!/usr/bin/env bash
 # writing a bash script that displays Best School 10 time using the while loop.
 
 i=0
