@@ -1,6 +1,8 @@
 #!/user/bin/env bash
 # writing a bash script that displays Best School 10 time using the while loop.
+
 i=0
+
 while [ $i -lt 10 ]
 do
 	echo "Best School"
