@@ -1,18 +1,18 @@
 #!/usr/bin/env bash
 # a 
 
-count=1
+count=0
 
-while [ $count -lt 10 }
+while [ $count -lt 10 ]
 do
-if [ $count -eq 4 ]
-then
-echo "bad luck"
-fi
-if [ $count -eq 8 ]
-then
-echo "good luck"
-fi
-echo "Holberton School"
-(( count++ ))
+	if [ $count -eq 4 ]
+	then
+		echo "bad luck"
+	elif [ $count -eq 8 ]
+	then
+		echo "good luck"
+	else
+		echo "Best School"
+	fi
+	(( count++ ))
 done
